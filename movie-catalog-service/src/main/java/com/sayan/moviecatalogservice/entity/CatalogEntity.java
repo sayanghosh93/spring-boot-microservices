@@ -11,7 +11,7 @@ public class CatalogEntity {
 		this.desc = desc;
 		this.rating = rating;
 	}
-	
+
 	public String getName() {
 		return name;
 	}
